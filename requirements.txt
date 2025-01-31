@@ -1,0 +1,17 @@
+
+## Requirements
+
+To run this project, you will need the following libraries:
+
+- pandas
+- numpy
+- scikit-learn
+- xgboost
+- lightgbm (optional)
+- matplotlib
+- seaborn
+
+Install the dependencies by running:
+
+```bash
+pip install -r requirements.txt
